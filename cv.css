@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    max-width: 700px;
+    margin: auto;
+    height: 100%;
+    border: 19px solid goldenrod;
+    padding: 10PX;
+    display: block;
+    /* text-align: center;  */
+
+}
+div{
+    /* display: block; */
+    align-items: center;
+}
+.header{
+    text-align: center;
+    align-items: center;
+    font: sans-serif;
+    font-size: 19px;
+    text-decoration: grey;
+    /* color: grey; */
+    /* display: block; */
+}
+.content{
+    padding: 15px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-justify: newspaper;
+    color: grey;
+}
+
+.firstline{
+    width: 90%;
+    border: 2px solid black;
+    margin: auto;
+}
+.content2{
+    margin-left: 32px;
+    /* padding: 15px; */
+    /* text-align: center; */
+    font-family: 'Times New Roman', Times, serif;
+    /* font-size: 20px; */
+    text-justify: newspaper;
+}
+.scndline{
+    width: 90%;
+    border: 1px solid black;
+    margin: auto;
+
+}
+.content3{
+    margin: auto;
+    /* padding: 15px; */
+    /* text-align: center; */
+    /* overflow-wrap: break-word; */
+    font-family: san serif;
+    max-width: 90%;
+    font-size: 17px;
+
+}
+h4{
+    /* padding: 25px auto; */
+    margin: 10px auto;
+}
+.thdline{
+    width: 90%;
+    border: 1px solid gray;
+    margin: auto;
+    
+
+}
+li{
+    margin: auto;
+    font-family: san serif;
+    max-width: 90%;
+    font-size: 17px;
+}
+.linefour{
+    border:  0.35px solid black;
+}
